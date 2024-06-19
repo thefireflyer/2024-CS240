@@ -1,0 +1,11 @@
+[package]
+name = "spell-checker"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.79"
+tailcall = "1.0.1"
+cs-240-library = { path = "../../CodeLibrary/cs-240-library/" }

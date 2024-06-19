@@ -1,0 +1,10 @@
+adj:
+  node-5:
+  - node-1
+  node-4: []
+  node-3: []
+  node-1:
+  - node-2
+  - node-3
+  node-2:
+  - node-4
