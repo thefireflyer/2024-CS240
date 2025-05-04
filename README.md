@@ -2,7 +2,7 @@
 
 | Module                                                | Documentation | Crate         | CI/CD |
 | ----------------------------------------------------- | ------------- | ------------- | ----- |
-| [Core library](code-library/cs-240-library/README.md) | [\_\_\_](___) | [\_\_\_](___) | [![Core Library \| CI/CD](https://github.com/thefireflyer/recased/actions/workflows/lib.yml/badge.svg)](https://github.com/thefireflyer/recased/actions/workflows/lib.yml) |
+| [Core library](code-library/README.md) | [\_\_\_](___) | [\_\_\_](___) | [![Core Library \| CI/CD](https://github.com/thefireflyer/recased/actions/workflows/lib.yml/badge.svg)](https://github.com/thefireflyer/recased/actions/workflows/lib.yml) |
 | [Graph editor](graph-editor/README.md)                | [\_\_\_](___) | [\_\_\_](___) | [![Graph Editor \| CI/CD](https://github.com/thefireflyer/recased/actions/workflows/graph-editor.yml/badge.svg)](https://github.com/thefireflyer/recased/actions/workflows/graph-editor.yml) |
 | [Spell checker](spell-checker/README.md)              | [\_\_\_](___) | N/A           | [![Spell Checker \| CI/CD](https://github.com/thefireflyer/recased/actions/workflows/spell-checker.yml/badge.svg)](https://github.com/thefireflyer/recased/actions/workflows/spell-checker.yml) |
 | [Hanoi's Tower](hanoi-tower/README.md)                | [\_\_\_](___) | N/A           | [![Hanoi's Tower \| CI/CD](https://github.com/thefireflyer/recased/actions/workflows/hanoi-tower.yml/badge.svg)](https://github.com/thefireflyer/recased/actions/workflows/hanoi-tower.yml) |
